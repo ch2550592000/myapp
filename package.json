@@ -1,0 +1,25 @@
+{
+  "name": "ksana2015-scaffold-default",
+  "description": "New Ksana application",
+  "version": "0.0.1",
+  "main": "index.html",
+  "inject-js-start": "nwmain.js",
+  "single-instance": true,
+  "window": {
+    "toolbar": true,
+    "width": 1060,
+    "height": 700
+  },
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "https://ch2550592000@github.com/ch2550592000/myapp"
+  },
+  "readme": "scaffold for ksana2015 app\r\n====\r\n\r\ninstall github.com/ksanaforge/ksana2015\r\n\r\nks mkdb sample",
+  "readmeFilename": "README.md",
+  "gitHead": "e5dd334492c0d47aec6fc7443ca011ba58c4442d",
+  "_id": "ksana2015-scaffold-default@0.0.1",
+  "_shasum": "f93733d00f78222c085603f4f1907b327f18ee5f",
+  "_from": "..\\..\\AppData\\Local\\Temp\\npm-6096-d2f6db4e\\git-cache-aad55cfb087b\\e5dd334492c0d47aec6fc7443ca011ba58c4442d",
+  "_resolved": "git+https://github.com/ksanaforge/ksana2015-scaffold-default.git#e5dd334492c0d47aec6fc7443ca011ba58c4442d"
+}
